@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_all_spots"
+            android:icon="@mipmap/ic_location"
+            android:title="@string/all_spots" />
+        <item
+            android:id="@+id/nav_food"
+            android:icon="@mipmap/ic_food"
+            android:title="@string/food_and_drinks" />
+        <item
+            android:id="@+id/nav_hotel"
+            android:icon="@mipmap/ic_hotel"
+            android:title="@string/hotel" />
+        <item
+            android:id="@+id/nav_museums"
+            android:icon="@mipmap/ic_museum"
+            android:title="@string/museums" />
+        <item
+            android:id="@+id/nav_attractions"
+            android:icon="@mipmap/ic_camera"
+            android:title="@string/attractions" />
+        <item
+            android:id="@+id/nav_nightlife"
+            android:icon="@mipmap/ic_night"
+            android:title="@string/nightlife" />
+        <item
+            android:id="@+id/nav_shopping"
+            android:icon="@mipmap/ic_shopping"
+            android:title="@string/shopping" />
+    </group>
+
+</menu>

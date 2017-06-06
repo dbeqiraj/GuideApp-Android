@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">City Tourist Guide</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="error">Something went wrong. Please try again later.</string>
+    <string name="connection_error">Please, check your internet connection and try again.</string>
+    <string name="please_wait">Please wait&#8230;</string>
+    <string name="no_data">No data found</string>
+    <string name="cannot_continue">In order to continue please make check your internet connection and enable GPS.</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="all_spots">All Spots</string>
+    <string name="food_and_drinks">Food &amp; Drinks</string>
+    <string name="hotel">Hotel</string>
+    <string name="attractions">Attractions</string>
+    <string name="museums">Museums</string>
+    <string name="nightlife">Nightlife</string>
+    <string name="shopping">Shopping</string>
+
+    <!-- Details -->
+    <string name="info">Info</string>
+    <string name="map">Map</string>
+    <string name="explore">EXPLORE</string>
+    <string name="navigate">NAVIGATE</string>
+    <string name="description">Description</string>
+</resources>
